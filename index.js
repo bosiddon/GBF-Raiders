@@ -30,21 +30,17 @@ function GetTopRoom() {
 			return raidRooms[ 0 ][ 0 ] + ": " + raidRooms[ 0 ][ 1 ].length;
 		}
 	} catch ( err ) {
-		console.log( "Error getting top room: " + err );
+		console.log( "Error getting top room" );
 	}
 }
 
 var topRoom = Probe.metric( {
 	name: 'Top Room',
-} );
-
-setInterval( function () {
-	try {
-		topRoom.set( GetTopRoom() );
-	} catch ( err ) {
-		console.log( "Error setting top room: " + err );
+	agg_type: 'none',
+	value: function () {
+		return GetTopRoom();
 	}
-}, 60000 )
+} );
 
 var tweetsPerMin = Probe.meter( {
 	name: 'tweets/min',
