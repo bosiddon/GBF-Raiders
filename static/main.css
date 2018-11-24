@@ -21,10 +21,6 @@
 	margin-right: 3px;
 }
 
-#news-message.ui.message {
-	min-height: inherit;
-}
-
 #welcome {
 	padding: 50px;
 	margin: 5px;
