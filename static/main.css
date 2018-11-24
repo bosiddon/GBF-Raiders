@@ -22,7 +22,7 @@
 }
 
 #news-message.ui.message {
-	min-height: unset;
+	min-height: inherit;
 }
 
 #welcome {
