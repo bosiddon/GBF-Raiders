@@ -1342,4 +1342,12 @@
 	"image": "/assets/raids/BattleRaid_Huanglong_and_Qilin_Impossible.png",
 	"category": "Rise of the Beasts",
 	"element": "Light"
+},
+{
+	"english": "Lvl 120 Akasha",
+	"japanese": "Lv120 黄龍",
+	"room": "lvl120akasha",
+	"image": "/assets/raids/BattleRaid_Huanglong_and_Qilin_Impossible.png",
+	"category": "Rise of the Beasts",
+	"element": "Light"
 }]
