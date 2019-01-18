@@ -1312,25 +1312,25 @@
 	"element": "Earth"
 },
 {
-	"english": "Lvl 90 Freyr",
-	"japanese": "Lv90 フレイ",
-	"room": "lvl90freyr",
+	"english": "Lvl 90 Vortex Dragon",
+	"japanese": "Lv90 雷霆公",
+	"room": "lvl90vortexdragon",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare90.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
 },
 {
-	"english": "Lvl 95 Freyr",
-	"japanese": "Lv95 フレイ",
-	"room": "lvl95freyr",
+	"english": "Lvl 95 Vortex Dragon",
+	"japanese": "Lv95 雷霆公",
+	"room": "lvl95vortexdragon",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare95.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
 },
 {
-	"english": "Lvl 100 Freyr",
-	"japanese": "Lv100 フレイ",
-	"room": "lvl100freyr",
+	"english": "Lvl 100 Vortex Dragon",
+	"japanese": "Lv100 雷霆公",
+	"room": "lvl100vortexdragon",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
