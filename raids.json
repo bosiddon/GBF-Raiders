@@ -1362,7 +1362,7 @@
 {
 	"english": "Lvl 200 Lucilius",
 	"japanese": "Lv150 ルシファー",
-	"room": "lvl200lucilius",
+	"room": "lvl150lucilius",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Impossible Nightmare",
 	"element": "Dark"
