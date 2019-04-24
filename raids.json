@@ -1366,4 +1366,12 @@
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Impossible Nightmare",
 	"element": "Dark"
+},
+{
+	"english": "Lvl 200 The Four Primarchs",
+	"japanese": "Lv150 四大天司と対決します",
+	"room": "lvl200fourprimarchs",
+	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
+	"category": "Impossible Nightmare",
+	"element": "Dark"
 }]
