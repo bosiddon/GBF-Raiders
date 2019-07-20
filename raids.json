@@ -1312,25 +1312,25 @@
 	"element": "Earth"
 },
 {
-	"english": "Lvl 90 Varuna",
-	"japanese": "Lv90 ヴァルナ",
-	"room": "lvl90varuna",
+	"english": "Lvl 90 Hellfire Bonito",
+	"japanese": "Lv90 煉獄カツウォヌス",
+	"room": "lvl90hellfirebonito",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare90.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
 },
 {
-	"english": "Lvl 95 Varuna",
-	"japanese": "Lv95 ヴァルナ",
-	"room": "lvl95varuna",
+	"english": "Lvl 95 Hellfire Bonito",
+	"japanese": "Lv95 煉獄カツウォヌス",
+	"room": "lvl95hellfirebonito",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare95.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
 },
 {
-	"english": "Lvl 100 Varuna",
-	"japanese": "Lv100 ヴァルナ",
-	"room": "lvl100varuna",
+	"english": "Lvl 100 Hellfire Bonito",
+	"japanese": "Lv100 煉獄カツウォヌス",
+	"room": "lvl100hellfirebonito",
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
