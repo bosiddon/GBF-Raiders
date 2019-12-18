@@ -1374,4 +1374,12 @@
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Impossible Nightmare",
 	"element": "Dark"
+},
+{
+	"english": "The Peacemaker's Wings",
+	"japanese": "ジ・オーダー・グランデ",
+	"room": "lvl200peacemakerswings",
+	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
+	"category": "Impossible Nightmare",
+	"element": "Dark"
 }]
